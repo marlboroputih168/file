@@ -42,12 +42,12 @@ if (isset($_GET['cau'])) {
 <!DOCTYPE html>
 <html ⚡ lang="id" itemscope="itemscope" itemtype="https://schema.org/WebPage">
 <head>
-    <title><?= $BRANDS?> | 🐶🐶 Situs Gacor Tahun 2024 di Indonesia</title>
+    <title><?= $BRANDS?> | 🤷‍♂️🤷‍♂️ Server Gacor Thailand Terpercaya Tahun 2024</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="UTF-8">
-    <meta property="og:title" content="<?= $BRANDS?> | 🐶🐶 Situs Gacor Tahun 2024 di Indonesia" />
+    <meta property="og:title" content="<?= $BRANDS?> | 🤷‍♂️🤷‍♂️ Server Gacor Thailand Terpercaya Tahun 2024" />
     <meta name="description"
-        content="<?= $BRANDS;?> Situs tergacor di Indonesia dengan modal minim anda bisa merasakan sensasi maxwin dengan jackpot jutaan rupiah." />
+        content="<?= $BRANDS;?> Server Gacor Thailand Terpercaya Tahun 2024. <?= $BRANDS;?> Memberikan akses mudah untuk semua pemain slot online di Indonesia agar bisa merasakan kemenangan mudah hanya dengan modal minim." />
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="mobile-web-app-capable" content="yes">
     <meta name='robots' content='index, follow' />
@@ -74,18 +74,18 @@ if (isset($_GET['cau'])) {
     <meta name="supported-amp-formats" content="websites,stories,ads,email">
     <meta property="og:site_name" content="<?= $BRANDS?>" />
     <meta property="og:description"
-        content="<?= $BRANDS;?> itus tergacor di Indonesia dengan modal minim anda bisa merasakan sensasi maxwin dengan jackpot jutaan rupiah." />
+        content="<?= $BRANDS;?> Server Gacor Thailand Terpercaya Tahun 2024. <?= $BRANDS;?> Memberikan akses mudah untuk semua pemain slot online di Indonesia agar bisa merasakan kemenangan mudah hanya dengan modal minim. " />
     <meta property="og:type" content="WebPage" />
     <meta property="og:locale" content="id_ID" />
-    <meta name="image" content="https://i.ibb.co/yR0vqGq/photo-2023-11-30-15-43-51.jpg">
-    <meta name="og:image" content="https://i.ibb.co/yR0vqGq/photo-2023-11-30-15-43-51.jpg">
+    <meta name="image" content="https://i.ibb.co/Zf0H4BT/image.png">
+    <meta name="og:image" content="https://i.ibb.co/Zf0H4BT/image.png">
     <meta property="og:locale:alternate" content="id_ID" />
     <meta name="theme-color" content="var(--bgColor)">
-    <link rel="canonical" href="#" />
+    <link rel="canonical" href="<?= $urlPath;?>" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css?family=Karla:400,700&display=swap" rel="stylesheet">
-    <link rel="icon" href="https://i.ibb.co/B6pFZhT/Logo.jpg" type="image/x-icon" />
+    <link rel="icon" href="https://i.ibb.co/XYhRZxT/asdasddas.png" type="image/x-icon" />
     <link rel="preload" as="script" href="https://cdn.ampproject.org/v0.js">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <style amp-boilerplate>
@@ -162,9 +162,9 @@ if (isset($_GET['cau'])) {
             --white: #eaeaea;
             --accentColor: #E6E6E6;
             --pink: #a200ff;
-            --cyan: #08a5ad;
+            --cyan: #fb00ff;
             --pink-hover: #0b0b0c;
-            --cyan-hover: #dbb81e;
+            --cyan-hover: #a602ff;
             --rose: #ff0000;
             --font: 'Karla', sans-serif;
             --firstName: 'John';
@@ -559,20 +559,20 @@ if (isset($_GET['cau'])) {
 
 <body>
     <header>
-        <amp-img id="image" class="animated tada infinite slower" src="https://i.ibb.co/yR0vqGq/photo-2023-11-30-15-43-51.jpg"
+        <amp-img id="image" class="animated tada infinite slower" src="https://i.ibb.co/Zf0H4BT/image.png"
         alt="<?= $BRANDS?>" width="200" height="100" layout="responsive"></amp-img>
     </header>
     <div class="created by pinjam">
-        <h1 class="title animated heartBeat slow infinite">💋 <?= $BRANDS?> 💋</h1>
+        <h1 class="title animated heartBeat slow infinite">🐶<?= $BRANDS?>🐶</h1>
         <div class="pinjam abang">
-            <p class="font-normal"><a href="<?= $urlPath;?>"><?= $BRANDS?></a>Situs mudah menang cuman ada di sini, cukup modal minim bisa jackpot hinga jutaan rupiah!!!</p>
+            <p class="font-normal"><a href="<?= $urlPath;?>"><?= $BRANDS?></a>Server Gacor Thailand Terpercaya Tahun 2024. <?= $BRANDS;?> Memberikan akses mudah untuk semua pemain slot online di Indonesia agar bisa merasakan kemenangan mudah hanya dengan modal minim.</p>
         </div>
     </div>
     <div id="links">
-        <a class="link1 animated fadeInLeft slow" href="https://cawan78-3.store" target="_blank" rel="nofollow">DAFTAR <?= $BRANDS?></a>
-        <a class="link2 animated fadeInRight slow" href="https://cawan78-3.store" target="_blank" rel="nofollow">LOGIN <?= $BRANDS?></a>
-        <a class="link1 animated fadeInLeft slow" href="https://cawan78-3.store" target="_blank" rel="nofollow">RTP Live slot Online</a>
-        <a class="link2 animated fadeInRight slow" href="https://cawan78-3.store" target="_blank" rel="nofollow">LINK <?= $BRANDS?></a>
+        <a class="link1 animated fadeInLeft slow" href="https://angkawin.site" target="_blank" rel="nofollow">DAFTAR <?= $BRANDS?></a>
+        <a class="link2 animated fadeInRight slow" href="https://angkawin.site" target="_blank" rel="nofollow">LOGIN <?= $BRANDS?></a>
+        <a class="link1 animated fadeInLeft slow" href="https://angkawin.site" target="_blank" rel="nofollow">LIVE RTP <?= $BRANDS?> </a>
+        <a class="link2 animated fadeInRight slow" href="https://angkawin.site" target="_blank" rel="nofollow">LINK <?= $BRANDS?></a>
     </div>
 
     <footer class="animated fadeIn slow delay-1s">
